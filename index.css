@@ -1,0 +1,126 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.logo{
+    background-color: black;
+    color: rgb(72, 226, 141);
+    padding-left: 40px;
+}
+.navbar{
+    text-align: center;
+    
+    
+.input{
+    color: white;
+    text-decoration: none;
+}   
+.input:hover{
+    color:  rgb(72, 226, 141);
+} 
+}
+.search{
+    border-color: white;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-left: 350px;
+    margin-right: -450px;
+}
+main{
+    border-top-color: white;
+.container{
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 25px;
+span{
+    color: rgb(72, 226, 141);
+}
+
+button{
+    background-color: rgb(72, 226, 141);
+    border: none;
+    padding: 12px;
+    color: white;
+    border-radius: 5px;
+span{
+    background-color: white;
+    color: rgb(72, 226, 141);
+    margin-left: 20px;
+    padding: 5px;
+    border-radius: 2px;
+}    
+}
+button:hover{
+    transition: 0.5s;
+    background-color: rgb(58, 240, 179);
+}
+}
+}
+img{
+    padding-left: 700px;
+    margin-bottom: 100px;
+}
+.item1{
+    border-style: solid;
+    border-color: black;
+    border-left-color: rgb(43, 212, 111);
+    font-size: 15px;
+    padding-left: 7px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+} 
+.am{
+    text-align: center;
+    font-size: 40px;
+} 
+.about-me{
+    display: flex;
+    padding-left: 20px;
+    text-align: center;
+    margin-top: 70px;
+h3{
+    color: rgb(72, 226, 141);
+}    
+p{
+    text-align: left;
+}    
+} 
+.skills{
+     margin-right: 90px;
+     margin-left: 60px;
+     background-color: rgb(44, 41, 41);
+     border-style: solid;
+     border-color: black;
+     border-left-color: rgb(72, 226, 141);
+     border-radius: 5px;
+     padding-left: 5px;
+}
+.Hobbies{
+    margin-right: 95px;
+    margin-left: 160px;
+     background-color: rgb(44, 41, 41);
+     border-style: solid;
+     border-color: black;
+     border-left-color: rgb(72, 226, 141);
+     border-radius: 5px;
+     padding-left: 5px;
+}
+.interest{
+    margin-left: 100px;
+     background-color: rgb(44, 41, 41);
+     border-style: solid;
+     border-color: black;
+     border-left-color: rgb(72, 226, 141);
+     border-radius: 5px;
+     padding-left: 5px;
+}
+.learn{
+    background-color: rgb(72, 226, 141);
+    border: none;
+    padding: 12px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 587px;
+    margin-top: 50px;
+}
