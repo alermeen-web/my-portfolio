@@ -52,8 +52,11 @@ span{
 }    
 }
 button:hover{
-    transition: 0.5s;
     background-color: rgb(58, 240, 179);
+    cursor: pointer;
+}
+button:active{
+    opacity: 0.8;
 }
 }
 }
@@ -123,4 +126,37 @@ p{
     border-radius: 5px;
     margin-left: 587px;
     margin-top: 50px;
+}
+.learn:hover{
+    cursor: pointer;
+}
+.learn:active{
+    opacity: 0.8;
+}
+footer{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 50px;
+    /* display: flex; */
+
+.contacts{
+    padding-right: 800px;
+    padding-left: 0;
+}    
+
+.socials{
+    padding-bottom: 700px;
+    margin-top: -120px;
+}
+.services{
+    padding-left: 700px;
+    margin-top: -820px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
 }
